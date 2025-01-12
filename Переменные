@@ -1,0 +1,5 @@
+tasks_count= 12
+amount_of_time=1.5
+first_name='Python,'
+lead_time=0.125
+print(first_name, 'всего задач:', tasks_count, 'затрачено часов:', amount_of_time, 'среднее время выполнения:', lead_time, 'часа.')
